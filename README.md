@@ -11,9 +11,9 @@
 - **Tools:** Git, GitHub, Docker, Jenkins, SQLite, VSCode
 
 ## 🧩 Projects
-- 🔐 [Blockchain Medical Record System](#)
-- 🛒 [JWT Auth E-Commerce Platform](#)
-- 📦 [Supply Chain DApp (Solidity + React)](#)
+- 🔐 [Blockchain Medical Record System](https://github.com/NishantChaubey534/Blockchain-Based-Medical-System)
+- 🛒 [JWT Auth E-Commerce Platform](https://github.com/NishantChaubey534/E-commerceproject)
+- 📦 [Supply Chain DApp (Solidity + React)](https://github.com/NishantChaubey534/Supply_chain-Dapp)
 
 ## 🏆 Achievements
 - Completed Internship @ Tata Steel
@@ -21,6 +21,6 @@
 - Open Source Contributor (Keploy)
 
 ## 📫 Let's Connect!
-- LinkedIn: [https://www.linkedin.com/in/nishant-kumar-chaubey](#)
-- Portfolio: [https://portfolio-dqib.onrender.com/](#)
+- LinkedIn: [https://www.linkedin.com/in/nishant-kumar-chaubey](https://www.linkedin.com/in/nishant-kumar-chaubey)
+- Portfolio: [https://portfolio-dqib.onrender.com/](https://portfolio-dqib.onrender.com/)
 - Email: chaubeynishant2@gmail.com
