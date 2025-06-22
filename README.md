@@ -14,9 +14,9 @@
 - 🔐 Blockchain Medical Record System  
   🔗 [GitHub](https://github.com/NishantChaubey534/Blockchain-Based-Medical-System)
 - 🛒 JWT Auth E-Commerce Platform
-- 🔗 [GitHub](https://github.com/NishantChaubey534/E-commerceproject) | 🌐 [Live Demo](https://e-commerceproject-1.onrender.com/)
+  🔗 [GitHub](https://github.com/NishantChaubey534/E-commerceproject) | 🌐 [Live Demo](https://e-commerceproject-1.onrender.com/)
 - 📦 Supply Chain DApp (Solidity + React)
-- 🔗 [GitHub](https://github.com/NishantChaubey534/Supply_chain-Dapp) | 🌐 [Live Demo](https://supply-chain-dapp.vercel.app/)
+  🔗 [GitHub](https://github.com/NishantChaubey534/Supply_chain-Dapp) | 🌐 [Live Demo](https://supply-chain-dapp.vercel.app/)
 
 ## 🏆 Achievements
 - Completed Internship @ Tata Steel
