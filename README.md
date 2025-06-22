@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Nishant Kumar Chaubey
 
-<!--
-**NishantChaubey534/NishantChaubey534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE & Communication Engineering @ KIIT  
+💻 Passionate about Web Development & Blockchain  
+🚀 Exploring DApps, Smart Contracts, and full-stack projects
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages:** Java, JavaScript, C++, Python
+- **Web:** HTML, CSS, Tailwind CSS, React.js, Node.js, Express.js, MongoDB
+- **Blockchain:** Solidity, Ethers.js, MetaMask
+- **Tools:** Git, GitHub, Docker, Jenkins, SQLite, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Projects
+- 🔐 [Blockchain Medical Record System](#)
+- 🛒 [JWT Auth E-Commerce Platform](#)
+- 📦 [Supply Chain DApp (Solidity + React)](#)
+
+## 🏆 Achievements
+- Completed Internship @ Tata Steel
+- AWS Certified
+- Open Source Contributor (Keploy)
+
+## 📫 Let's Connect!
+- LinkedIn: [https://www.linkedin.com/in/nishant-kumar-chaubey](#)
+- Portfolio: [https://portfolio-dqib.onrender.com/](#)
+- Email: chaubeynishant2@gmail.com
