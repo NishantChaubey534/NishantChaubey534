@@ -8,12 +8,15 @@
 - **Languages:** Java, JavaScript, C++, Python
 - **Web:** HTML, CSS, Tailwind CSS, React.js, Node.js, Express.js, MongoDB
 - **Blockchain:** Solidity, Ethers.js, MetaMask
-- **Tools:** Git, GitHub, Docker, Jenkins, SQLite, VSCode
+- **Tools:** Git, GitHub, SQLite, VSCode
 
-## 🧩 Projects
-- 🔐 [Blockchain Medical Record System](https://github.com/NishantChaubey534/Blockchain-Based-Medical-System)
-- 🛒 [JWT Auth E-Commerce Platform](https://github.com/NishantChaubey534/E-commerceproject)
-- 📦 [Supply Chain DApp (Solidity + React)](https://github.com/NishantChaubey534/Supply_chain-Dapp)
+## 🧩 Major Projects
+- 🔐 Blockchain Medical Record System  
+  🔗 [GitHub](https://github.com/NishantChaubey534/Blockchain-Based-Medical-System)
+- 🛒 JWT Auth E-Commerce Platform
+- 🔗 [GitHub](https://github.com/NishantChaubey534/E-commerceproject) | 🌐 [Live Demo](https://e-commerceproject-1.onrender.com/)
+- 📦 Supply Chain DApp (Solidity + React)
+- 🔗 [GitHub](https://github.com/NishantChaubey534/Supply_chain-Dapp) | 🌐 [Live Demo](https://supply-chain-dapp.vercel.app/)
 
 ## 🏆 Achievements
 - Completed Internship @ Tata Steel
